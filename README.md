@@ -7,10 +7,10 @@
 <br>
 
 ## 결과물 (대시보드)
-![결과물(대시보드)](https://github.com/hunsoodev/dev-course-project-02/assets/147886939/2bfa59ed-e8c0-44ee-a6f6-0ac90ff45c77)
+![결과물(대시보드)](./result_dash.png)
 
 ## 아키텍처
-![데브코스 2차 프로젝트_최종](https://github.com/hunsoodev/dev-course-project-02/assets/147886939/be3b88f6-d0bc-47ff-aa8f-038b2b0e611f)
+![데브코스 2차 프로젝트_최종](./architecture.png)
 
 
 ### 프로젝트 선정 이유
